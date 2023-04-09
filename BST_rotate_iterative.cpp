@@ -1,3 +1,7 @@
+*/
+	 // Author -- > Faheem khan.
+         // Code for Binary search tree iterative.
+*/
 // # include <bits/stdc++.h>
 # include <iostream>
 # include <vector>  
