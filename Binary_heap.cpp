@@ -21,13 +21,14 @@ using namespace std ;
 int const limit = 1e7 ;
 int heap[limit] ;
 int num = 0, n = 1 ;
-
+// bubble up function 
 void b_up(int i){
     if (heap[i/2] < heap[i] && i!=1){
         swap(heap[i],heap[i/2]) ;
         b_up(i/2);
     }
 }
+// bubble down function.
 void b_down(int i){
     if (2*i <= n && heap[i]<heap[2*i] && (2*i+1 <= n or heap[2*i+1] < heap[2*i])){
         swap(heap[2*i],heap[i]);
