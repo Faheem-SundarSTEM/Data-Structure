@@ -114,7 +114,7 @@ void node::erase(node *p){
         erase(n);
     }
 }
-int main(){
+signed main(){
     while (1){
         string command ; cin >> command ;
         if (command == "insert"){
