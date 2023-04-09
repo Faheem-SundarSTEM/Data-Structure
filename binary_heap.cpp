@@ -1,16 +1,22 @@
-// #include <bits/stdc++.h>
-# include <vector>
+/*
+    Author --> Faheem khan.
+    this is the code for binary heap...
+*/
+// # include <bits/stdc++.h>
 # include <iostream>
-# include <deque>
-using namespace std;
-// # typedef float long double
-// # typedef int long long
-# define float long double
+# include <vector>  
+# include <algorithm>
+# include <cmath>
+# include <set>
+# include <map>
+# include <string>
+using namespace std ;
 # define int long long
-# define pb push_back
-# define in binary_search
 # define all(x) (x).begin(),(x).end()
-# define sum(a) accumulate(all(a),0)
+# define f_Actoral ios::sync_with_stdio(false); cin.tie(0) ;
+# define print(a) for(auto i:a){cout<<i<<' ';}cout<<endl;
+// M_u_h_a_m_m_a_d  S.A.W  ...</>... 
+// a == 97 ; 0 == 48  ; A  == 65 ;
 
 int const limit = 1e7 ;
 int heap[limit] ;
