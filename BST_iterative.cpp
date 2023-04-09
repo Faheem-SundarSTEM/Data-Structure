@@ -64,11 +64,6 @@ void insert(int x){
 	}if(root == NULL){	
 		root = p ;
 	} 
-	
-	
-			// for(auto i : parent){cout << i << ' '} cout << endl ;
-			// for(auto i : left){cout << i << ' '} cout << endl ;
-			// for(auto i : right){cout << i << ' '} cout << endl ;
 }
 node * min(){
 	node * p = root ;
