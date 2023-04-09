@@ -1,3 +1,7 @@
+/*
+        Author -- > Faheem khan.
+        Binary search tree code for ( insertion , deletion , minimum element , maximum element , and search ) .
+*/
 // # include <bits/stdc++.h>
 # include <iostream>
 # include <vector>  
