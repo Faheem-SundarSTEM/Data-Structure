@@ -1,3 +1,7 @@
+/*
+      Author Faheem khan
+      Treap combination of tree and heap DS , prz (insertion , search , minimum element , maximum element and deletion )
+*/
 // # include <bits/stdc++.h>
 # include <iostream>
 # include <vector>  
