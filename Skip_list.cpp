@@ -1,3 +1,7 @@
+/*
+	Author Faheem  khan 
+	Code for Skip list DS, and prz (insertion , deletion ,search , minimum element , maximum element)
+*/
 // # include <bits/stdc++.h>
 # include <iostream>
 # include <vector>  
