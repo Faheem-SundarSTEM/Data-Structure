@@ -1,3 +1,7 @@
+/*
+	Author --->  Faheem khan
+	Code for deque , prz all function of deque ,
+*/
 // # include <bits/stdc++.h>
 # include <iostream>
 # include <vector>  
@@ -86,6 +90,7 @@ struct deque
 	}
 
 };
+ // test cases ... 
 signed main(){
 	int n ;
 	cin >> n ;
