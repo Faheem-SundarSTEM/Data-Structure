@@ -1,3 +1,8 @@
+/*
+	Author --->  Faheem khan,
+	Code for vector , prz all functions of vector .
+
+*/
 // # include <bits/stdc++.h>
 # include <iostream>
 # include <vector>  
